@@ -3,15 +3,15 @@ module waysbean_fian
 go 1.18
 
 require (
-	github.com/cloudinary/cloudinary-go/v2 v2.1.0 //warning
-	github.com/creasty/defaults v1.5.1
+	github.com/cloudinary/cloudinary-go/v2 v2.3.0 //warning
+	github.com/creasty/defaults v1.7.0
 	github.com/felixge/httpsnoop v1.0.3
 	github.com/go-playground/locales v0.14.0
 	github.com/go-playground/universal-translator v0.18.0
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/golang-jwt/jwt/v4 v4.4.2
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/schema v1.2.0
